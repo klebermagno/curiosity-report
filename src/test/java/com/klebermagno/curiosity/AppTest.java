@@ -1,4 +1,4 @@
-package com.fountainledge.curiosity;
+package com.klebermagno.curiosity;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

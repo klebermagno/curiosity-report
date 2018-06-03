@@ -1,8 +1,8 @@
-package com.fountainledge.curiosity.model;
+package com.klebermagno.curiosity.model;
 
 import javax.annotation.Resource;
 
-import com.fountainledge.curiosity.model.image.PhotoElement;
+import com.klebermagno.curiosity.model.image.PhotoElement;
 
 @Resource
 public class MarsReport {

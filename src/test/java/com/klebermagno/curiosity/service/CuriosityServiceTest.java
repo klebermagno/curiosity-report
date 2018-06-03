@@ -1,4 +1,4 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
 import org.junit.Before;
 import org.mockito.Mock;

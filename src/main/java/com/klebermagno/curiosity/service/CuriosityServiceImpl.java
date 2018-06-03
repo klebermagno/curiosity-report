@@ -1,4 +1,4 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,11 +7,11 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.fountainledge.curiosity.model.MarsReport;
-import com.fountainledge.curiosity.model.MarsWeatherFeed;
-import com.fountainledge.curiosity.model.WeatherReport;
-import com.fountainledge.curiosity.model.image.MarsImage;
-import com.fountainledge.curiosity.model.image.PhotoElement;
+import com.klebermagno.curiosity.model.MarsReport;
+import com.klebermagno.curiosity.model.MarsWeatherFeed;
+import com.klebermagno.curiosity.model.WeatherReport;
+import com.klebermagno.curiosity.model.image.MarsImage;
+import com.klebermagno.curiosity.model.image.PhotoElement;
 
 @Service
 public class CuriosityServiceImpl implements CuriosityService {

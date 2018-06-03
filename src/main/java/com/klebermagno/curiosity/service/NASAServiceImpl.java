@@ -1,4 +1,4 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
 
-import com.fountainledge.curiosity.model.MarsWeatherFeed;
-import com.fountainledge.curiosity.model.image.MarsImage;
+import com.klebermagno.curiosity.model.MarsWeatherFeed;
+import com.klebermagno.curiosity.model.image.MarsImage;
 
 @Service
 public class NASAServiceImpl implements NASAService {

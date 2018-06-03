@@ -1,10 +1,10 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
 import java.util.List;
 
-import com.fountainledge.curiosity.model.MarsReport;
-import com.fountainledge.curiosity.model.WeatherReport;
-import com.fountainledge.curiosity.model.image.PhotoElement;
+import com.klebermagno.curiosity.model.MarsReport;
+import com.klebermagno.curiosity.model.WeatherReport;
+import com.klebermagno.curiosity.model.image.PhotoElement;
 
 public interface CuriosityService {
     

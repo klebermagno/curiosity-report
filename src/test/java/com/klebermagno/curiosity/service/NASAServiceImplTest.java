@@ -1,17 +1,17 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 import java.util.List;
 
+import com.klebermagno.curiosity.model.image.MarsImage;
+import com.klebermagno.curiosity.model.image.PhotoElement;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.fountainledge.curiosity.model.MarsWeatherFeed;
-import com.fountainledge.curiosity.model.WeatherReport;
-import com.fountainledge.curiosity.model.image.MarsImage;
-import com.fountainledge.curiosity.model.image.PhotoElement;
+import com.klebermagno.curiosity.model.MarsWeatherFeed;
+import com.klebermagno.curiosity.model.WeatherReport;
 
 public class NASAServiceImplTest {
     

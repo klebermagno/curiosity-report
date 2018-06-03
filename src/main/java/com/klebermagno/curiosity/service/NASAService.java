@@ -1,7 +1,7 @@
-package com.fountainledge.curiosity.service;
+package com.klebermagno.curiosity.service;
 
-import com.fountainledge.curiosity.model.MarsWeatherFeed;
-import com.fountainledge.curiosity.model.image.MarsImage;
+import com.klebermagno.curiosity.model.MarsWeatherFeed;
+import com.klebermagno.curiosity.model.image.MarsImage;
 
 public interface NASAService {
     

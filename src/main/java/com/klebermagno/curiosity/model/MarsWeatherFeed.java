@@ -1,4 +1,4 @@
-package com.fountainledge.curiosity.model;
+package com.klebermagno.curiosity.model;
 
 import java.util.List;
 

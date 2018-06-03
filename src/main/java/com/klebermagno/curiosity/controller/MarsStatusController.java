@@ -1,16 +1,16 @@
-package com.fountainledge.curiosity.controller;
+package com.klebermagno.curiosity.controller;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import com.klebermagno.curiosity.service.CuriosityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fountainledge.curiosity.model.MarsReport;
-import com.fountainledge.curiosity.service.CuriosityService;
+import com.klebermagno.curiosity.model.MarsReport;
 
 @RestController
 public class MarsStatusController {
